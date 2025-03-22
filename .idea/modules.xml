@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/DesafioPOO/DesafioPOO.iml" filepath="$PROJECT_DIR$/DesafioPOO/DesafioPOO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ControleDeFluxo/ControleDeFluxo.iml" filepath="$PROJECT_DIR$/ControleDeFluxo/ControleDeFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DioProjects.iml" filepath="$PROJECT_DIR$/DioProjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Iphne/Iphne.iml" filepath="$PROJECT_DIR$/Iphne/Iphne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProgramacaoOrientadaObjetos/ProgramacaoOrientadaObjetos.iml" filepath="$PROJECT_DIR$/ProgramacaoOrientadaObjetos/ProgramacaoOrientadaObjetos.iml" />
     </modules>
   </component>
 </project>
