@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
       <module fileurl="file://$PROJECT_DIR$/ControleDeFluxo/ControleDeFluxo.iml" filepath="$PROJECT_DIR$/ControleDeFluxo/ControleDeFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/DioProjects.iml" filepath="$PROJECT_DIR$/DioProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iphone/Iphone.iml" filepath="$PROJECT_DIR$/Iphone/Iphone.iml" />

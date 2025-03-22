@@ -1,0 +1,3 @@
+enum TipoDeConta{
+    CORRENTE, POUPANCA
+}
