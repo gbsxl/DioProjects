@@ -15,6 +15,12 @@ public class Main {
         blocoMaior.addNumber(1, 3, 3); // Número 1 na linha 3, coluna 3
         blocoMaior.addNumber(2, 3, 4); // Número 2 na linha 3, coluna 4
         blocoMaior.addNumber(3, 3, 5); // Número 3 na linha 3, coluna 5
-        blocoMaior.viewBoard();
+
+        blocoMaior.addNumber(2, 0, 0); // test check remove - passed
+        blocoMaior.addNumber(3, 0, 7); // test check row - passed
+        blocoMaior.removeNumber(1, 1);// test remove - passed
+
+        blocoMaior.addNumber(1, 3, 0); // test column - passed
+        blocoMaior.addNumber(3, 1, 1); // test square - no passed - to revise
     }
 }

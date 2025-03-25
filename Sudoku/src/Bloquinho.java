@@ -4,8 +4,11 @@ import lombok.ToString;
 
 @Setter
 @Getter
-@ToString
 public class Bloquinho {
     private int number = 0;
 
+    @Override
+    public String toString() {
+        return number + ", ";
+    }
 }
