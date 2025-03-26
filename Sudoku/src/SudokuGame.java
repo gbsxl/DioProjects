@@ -84,7 +84,7 @@ public class SudokuGame {
         }
         return boardGame;
     }
-    List<Integer> numbersAvaliable(int row, int column) {
+    List<Integer> numbersAvailable(int row, int column) {
         List<Integer> numbers = new ArrayList<>();
         for (int i = 0; i <= boardGame.ROW; i++) {
             if (checkColumn(i, column) && checkRow(i, row) && checkSquare(i, row, column)) {
