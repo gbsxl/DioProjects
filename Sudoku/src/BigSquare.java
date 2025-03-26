@@ -4,16 +4,16 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Data
-public class BlocoMaior {
+public class BigSquare {
     final int ROW = 9;
     final int COLUMN = 9;
     List<int[]> square = new ArrayList<int[]>();
-    Bloquinho[][] blocoMaior = new Bloquinho[ROW][COLUMN];
+    miniSquare[][] bigSquare = new miniSquare[ROW][COLUMN];
 
-    public BlocoMaior() {
+    public BigSquare() {
         for (int i = 0; i < ROW; i++) {
             for (int j = 0; j < COLUMN; j++) {
-                blocoMaior[i][j] = new Bloquinho();
+                bigSquare[i][j] = new miniSquare();
             }
         }
         square.add(new int[]{0, 0, 2, 2}); //0
